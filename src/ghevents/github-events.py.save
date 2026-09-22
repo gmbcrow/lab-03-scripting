@@ -1,0 +1,2 @@
+cd src/ghevents
+nano github-events.py
